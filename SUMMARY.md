@@ -4,5 +4,5 @@
 
 ## 社区准则
 
-* [QQ群 群规](she-qu-zhun-ze/qqrules.md)
+* [QQ群规](she-qu-zhun-ze/qqrules.md)
 
